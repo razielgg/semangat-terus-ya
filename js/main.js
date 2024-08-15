@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('Apa satuan jarak yang bikin rindu? Itu kamu  Semangat Terus Ya Aul^_^').split('')
+    const titles = ('Apa satuan jarak yang bikin rindu? Itu kamu hehe, Semangat Terus Ya Aul^_^').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
